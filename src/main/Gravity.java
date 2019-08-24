@@ -13,10 +13,8 @@ public class Gravity {
 
 	public static void main(String[] args) {
 		Scanner time = new Scanner(System.in);
-				double t= time.nextDouble();
-				double g= 9.8;
-				double s= g*t;
-				double d = (0.5)*g*t*t;
+
+
 
 
 	}
